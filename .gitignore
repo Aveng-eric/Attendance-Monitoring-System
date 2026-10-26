@@ -1,0 +1,12 @@
+# compiled output and generated reports
+out/
+reports/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/

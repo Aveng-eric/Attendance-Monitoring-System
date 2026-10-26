@@ -1,0 +1,41 @@
+studentId,studentName,subject,conducted,attended
+24BCE1001,Aarav Sharma,Object Oriented Prog,40,36
+24BCE1001,Aarav Sharma,Database Systems,38,34
+24BCE1001,Aarav Sharma,Discrete Maths,36,30
+24BCE1001,Aarav Sharma,Operating Systems,42,38
+24BCE1001,Aarav Sharma,Computer Networks,34,30
+24BCE1002,Diya Verma,Object Oriented Prog,40,32
+24BCE1002,Diya Verma,Database Systems,38,28
+24BCE1002,Diya Verma,Discrete Maths,36,27
+24BCE1002,Diya Verma,Operating Systems,42,31
+24BCE1002,Diya Verma,Computer Networks,34,26
+24BCE1003,Rohan Mehta,Object Oriented Prog,40,24
+24BCE1003,Rohan Mehta,Database Systems,38,22
+24BCE1003,Rohan Mehta,Discrete Maths,36,20
+24BCE1003,Rohan Mehta,Operating Systems,42,25
+24BCE1003,Rohan Mehta,Computer Networks,34,19
+24BCE1004,Ananya Iyer,Object Oriented Prog,40,39
+24BCE1004,Ananya Iyer,Database Systems,38,37
+24BCE1004,Ananya Iyer,Discrete Maths,36,35
+24BCE1004,Ananya Iyer,Operating Systems,42,41
+24BCE1004,Ananya Iyer,Computer Networks,34,33
+24BCE1005,Karan Singh,Object Oriented Prog,40,31
+24BCE1005,Karan Singh,Database Systems,38,29
+24BCE1005,Karan Singh,Discrete Maths,36,28
+24BCE1005,Karan Singh,Operating Systems,42,32
+24BCE1005,Karan Singh,Computer Networks,34,26
+24BCE1006,Meera Nair,Object Oriented Prog,40,35
+24BCE1006,Meera Nair,Database Systems,38,30
+24BCE1006,Meera Nair,Discrete Maths,36,25
+24BCE1006,Meera Nair,Operating Systems,42,34
+24BCE1006,Meera Nair,Computer Networks,34,28
+24BCE1007,Vikram Rao,Object Oriented Prog,40,29
+24BCE1007,Vikram Rao,Database Systems,38,27
+24BCE1007,Vikram Rao,Discrete Maths,36,26
+24BCE1007,Vikram Rao,Operating Systems,42,30
+24BCE1007,Vikram Rao,Computer Networks,34,25
+24BCE1008,Sneha Kulkarni,Object Oriented Prog,40,38
+24BCE1008,Sneha Kulkarni,Database Systems,38,35
+24BCE1008,Sneha Kulkarni,Discrete Maths,36,33
+24BCE1008,Sneha Kulkarni,Operating Systems,42,39
+24BCE1008,Sneha Kulkarni,Computer Networks,34,31
